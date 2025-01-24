@@ -1,4 +1,4 @@
-# notas-atletas
+# Notas Atletas
 Repositório criado para publicação do Projeto de certificação 1 - Pontuação dos atletas | Curso Devstart
 
 Este projeto foi desenvolvido para calcular a média das notas de atletas em uma competição de ginástica artística. A média é calculada considerando apenas as três notas do meio, desconsiderando a maior e a menor nota de cada atleta.
